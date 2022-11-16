@@ -1,4 +1,4 @@
-# Instacart, Python
+# Exploratory Data Analysis, Python (Instacart)
 Analysis of the datasets provided by online retailer Instacart.
 The analysis was made during the Data Analytics Course by CareerFoundry.
 
